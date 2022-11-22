@@ -1,6 +1,6 @@
 import Image from "next/image";
 import {useEffect, useState} from "react";
-import Button from "./Button";
+import Button from "./button";
 import {useTheme} from "next-themes";
 import Avatar from "./images/avatar_96x96.jpg";
 
